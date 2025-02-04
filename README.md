@@ -1,6 +1,10 @@
 # hello World And welcome to my awesome Profile Boom
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gzYzljY3FrdmU4YTE3aGc0N2l5aXlvOHVqbDFjN2lpYWVvNjN0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPdwMm4jyClgxTq/giphy.gif)
 
+## about me:
+<h3>What is my hoby to do?</h3>
+<p>programming: because it makes me excited(no not that kind of excited)</p>
+
 <!--
 **troy600/troy600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
