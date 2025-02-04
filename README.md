@@ -1,4 +1,6 @@
-## Hi there 👋
+# hello World And welcome to my awesome Profile Boom
+
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media1.tenor.com/m/ZNsYbIiEuX0AAAAd/dancing-gorilla-144p-green-screen.gif))
 
 <!--
 **troy600/troy600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
