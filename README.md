@@ -5,6 +5,13 @@
 <h3>What is my hobby?</h3>
 <p>programming: because it makes me excited(no not that kind of excited)</p>
 
+<br>
+
+## Pronouncation:
+<p>Anything you Want</p>
+
+<br>
+
 <!--
 **troy600/troy600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
