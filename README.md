@@ -11,7 +11,8 @@
 <p>Anything you Want</p>
 
 <br>
-
+also:
+<img src="https://raw.githubusercontent.com/AlieeLinux/AlieeLinux/refs/heads/main/AiHoshino10.jpeg">
 <!--
 **troy600/troy600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
