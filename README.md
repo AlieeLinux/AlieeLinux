@@ -5,11 +5,16 @@
 <h3>What is my hobby?</h3>
 <p>programming: because it makes me excited(no not that kind of excited)</p>
 
+
 <br>
 
 ## Pronouncation:
 <p>Anything you Want</p>
 <br>
+# favorite os
+
+
+<img src"https://raw.githubusercontent.com/AlieeLinux/AlieeLinux/refs/heads/main/AiHoshino10.jpeg">
 
 
 # also:
