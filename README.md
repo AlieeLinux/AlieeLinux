@@ -14,7 +14,7 @@
 # favorite os
 
 
-<img src"https://raw.githubusercontent.com/AlieeLinux/AlieeLinux/refs/heads/main/AiHoshino10.jpeg">
+<img src="https://raw.githubusercontent.com/AlieeLinux/AlieeLinux/refs/heads/main/screenshot.png">
 
 
 # also:
