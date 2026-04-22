@@ -6,7 +6,7 @@
 
 ### what is my hobby?
 
-- programming: because it makes me excited(no not that kind of excited)
+- programming: because it makes me happy
 
 ### pronounciations
 
@@ -19,12 +19,12 @@
 
 ### My favorite game
 
-- osu!catch the beat(OSU!CTB)
-- Megaman 2
+- Touhou > 17
 - Terraria
-- The impossible quiz
 
 ### Achievements
 
 - Anuual Discord Russian CS2 tournament winner
 - High School Graduate.
+- School's hack the box
+- High school graduate with excellent award in work immersion
