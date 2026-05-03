@@ -1,30 +1,40 @@
-# hello World And welcome to my awesome Profile Boom
+# 👋 hello World And welcome to my profile
 
-![Alt Text](./toshinou-Kyouko.gif)
+![Alt Text](https://media.tenor.com/wB-AOqUwyNgAAAAj/koishi-komeiji.gif)
 
-## about me
+> Koishi Komeiji
 
-### what is my hobby?
+## 👧 about me
 
-- programming: because it makes me happy
+### hobby
 
-### pronounciations
+- programming: because it makes me happy with these programming languages
+  - Python
+  - bash/sh
+  - html/css/js via jinja2
+
+### 🪪 pronounciations
 
 - anything you want but i prefer him/his/her/she
 
-### Favorite Operating system
+### 🛜 Favorite Operating system
 
 - Archlinux
 - Debian
 
-### My favorite game
+### 🎮 My favorite game
 
 - Touhou > 17
 - Terraria
+- Touhou 6 to 10, 13 and 16
 
-### Achievements
+### 🎖️ Achievements
 
 - Anuual Discord Russian CS2 tournament winner
-- High School Graduate.
 - School's hack the box
 - High school graduate with excellent award in work immersion
+
+## 🉐 Status
+
+- Single
+- broke
