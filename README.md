@@ -34,6 +34,13 @@
 - School's hack the box
 - High school graduate with excellent award in work immersion
 
+### 💻 Packages I maintain on AUR
+
+- [grub-customizer5-git](https://aur.archlinux.org/packages/grub-customizer5-git)
+- [lshw-git](https://aur.archlinux.org/packages/lshw-git)
+- [neo-candy-icons](https://aur.archlinux.org/packages/neo-candy-icons)
+- [neo-candy-icons-git](https://aur.archlinux.org/packages/neo-candy-icons-git)
+
 ## 🉐 Status
 
 - Single
